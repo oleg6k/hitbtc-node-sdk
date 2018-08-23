@@ -1,9 +1,9 @@
-#HitBtc Node.JS SDK
+# HitBtc Node.JS SDK
 
 
 **HitBtc Node SDK** - small node.js Promise-like library for the **HitBtc API** <https://hitbtc.com>
 
-###Current version supports
+### Current version supports
 
 * full REST v2 API
 
