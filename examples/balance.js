@@ -1,7 +1,7 @@
 let APIKey ='APIKey';
 let SecretKey ='SecretKey';
 
-let hitbtc = require('hitbtc-api-node-sdk');
+const hitbtc = require('hitbtc-node-sdk');
 hitbtc.auth(APIKey, SecretKey);
 
 hitbtc.accountBalance()
