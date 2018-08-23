@@ -1,6 +1,6 @@
 {
   "name": "hitbtc-node-sdk",
-  "description": "HitBtc Node SDK - small node.js library for the HitBtc API https://hitbtc.com/",
+  "description": "HitBtc Node.JS SDK - small node.js library for the HitBtc API https://hitbtc.com/",
   "version": "0.0.1",
   "license": "MIT",
   "author": {
@@ -11,6 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/oleg6k/hitbtc-node-sdk"
   },
+  "keywords": [
+    "bitcoin",
+    "exchange",
+    "altcoin",
+    "hitbtc",
+    "api",
+    "wrapper"
+  ],
   "dependencies": {
     "request": "^2.34",
     "request-promise": "^4.2.2"

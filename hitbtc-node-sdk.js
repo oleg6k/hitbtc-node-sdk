@@ -1,7 +1,3 @@
-let APIKey = '5251ca817f48a9b1e18e4ef8a1f3552b';
-let SecretKey = '625a64f2f489fca34d573a2714ace318';
-
-
 let HitBtcApiNodeSdk = () => {
 
     const request = require('request-promise');
