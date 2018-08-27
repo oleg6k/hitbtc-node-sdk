@@ -1,4 +1,4 @@
-let HitBtcApiNodeSdk = () => {
+let HitBtcApiNodeSdk = (() => {
 
     const request = require('request-promise');
 
@@ -332,6 +332,7 @@ let HitBtcApiNodeSdk = () => {
         }
     }
 
-};
+})();
 
 module.exports = HitBtcApiNodeSdk;
+
