@@ -1,7 +1,7 @@
 {
   "name": "hitbtc-node-sdk",
   "description": "HitBtc Node.JS SDK - small node.js library for the HitBtc API https://hitbtc.com",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "author": {
     "name": "Oleg Kondratyuk",
