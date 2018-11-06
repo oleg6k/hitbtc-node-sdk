@@ -13,8 +13,7 @@ let HitBtcApiNodeSdk = (() => {
         agent: false,
         json: true,
         headers: {
-            'User-Agent': 'Mozilla/4.0 (compatible; HitBtcNodeSDK)',
-            'Content-type': 'application/x-www-form-urlencoded'
+            "User-Agent": "Mozilla/4.0 (compatible; HitBtcNodeSDK)"
         }
     };
 
